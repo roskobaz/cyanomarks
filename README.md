@@ -5,7 +5,7 @@
 (total)](https://img.shields.io/github/downloads/roskobaz/cyanomarks/total.svg)](https://github.com/roskobaz/cyanomarks/releases)
 
 ## Welcome to the CyanoMarks database!
-Marine picocyanobacteria *Synechococcus* *Prochlorococcus* and *Cyanobium* are the most abundant phototrophic prokaryotes in the oceans.
+Marine picocyanobacteria *Synechococcus*, *Prochlorococcus* and *Cyanobium* are the most abundant phototrophic prokaryotes in the oceans.
 
 CyanoMarks is a comprehensive database of curated markers *petB*, *rpoC1*, 16S and ITS with curated an unified taxonomy.
 ## What do we provide ?
