@@ -1,4 +1,4 @@
-# CyanoMarks
+# CyanoMarks - Genetic markers for marine picocyanobacteria
 [![Release](https://img.shields.io/badge/release-1.0-blue.svg)
 ![Date](https://img.shields.io/badge/date-01%20July%202020-lightgrey.svg)
 ![Github Downloads
